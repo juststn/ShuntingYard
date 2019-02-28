@@ -9,7 +9,7 @@ using namespace std;
 
 
 /*
-Shunting Yard algorithm - Takes in a mathematical expression containing ( +, -, *, /, ^),
+Shunting Yard algorithm - Justin He: Takes in a mathematical expression containing ( +, -, *, /, ^),
 integer numbers, and parentheses, then traslates into post fix expression.
 User is then prompted for which notation (infix, prefix, postfix) to output, from the expression tree.
 
